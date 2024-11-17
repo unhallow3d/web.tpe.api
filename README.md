@@ -4,7 +4,8 @@
 Esta API proporciona servicios RESTful para la gestión de una biblioteca. Permite consultar, agregar, modificar y eliminar autores, así como gestionar tokens de autenticación.
 
 ---
-
+# Integrantes
+ Geronimo Oliveto
 ## **Endpoints principales**
 
 ### **Autores**
